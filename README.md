@@ -13,7 +13,7 @@ To see the readable method names on the CAS reports, you need to use the Dynatra
 
 ## Where can I find the newest version of the Sun RMI script?
 
-See the [Universal Decode Implementations](https://community.dynatrace.com/community/display/PUBDCRUM/Universal+Decode+Implementations#UniversalDecodeImplementations-SUNRMI)
+See the [Universal Decode Implementations](https://community.dynatrace.com/community/display/PUBDCRUM/Bespoke+application+monitoring+with+the+Universal+Decode#BespokeapplicationmonitoringwiththeUniversalDecode-SUNRMI)
 page.
 
 ## How can I run the script from sources?
